@@ -1,2 +1,3 @@
 hai this is vikas this is from example1.txt file
 waiting for conflicts, thats why we created this changes.
+------from copy3 to create conflicts.
